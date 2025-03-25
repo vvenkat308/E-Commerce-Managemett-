@@ -1,4 +1,4 @@
-# E-Commerce-Managemett-The E-Commerce Management System is a full-stack web application designed to facilitate online shopping, product management, order processing, and secure transactions. It offers a smooth shopping experience with a modern and user-friendly interface, making it suitable for businesses that want to sell products online, manage inventory, and handle customer orders efficiently.
+# E-Commerce-Managemett-
 
 This system is built using React (Frontend) and Spring Boot (Backend), ensuring a fast, scalable, and secure platform for online transactions. The backend API provides endpoints for product management, order processing, user authentication, and payment integration, while the frontend offers an interactive shopping experience for users.
 
